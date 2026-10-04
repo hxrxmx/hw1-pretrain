@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.torch_compile_cache/
+output_dir/*.parquet
+output_dir/*/checkpoint-*/
